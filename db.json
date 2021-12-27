@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "message": "this is fixed",
+      "tech": "mohammad safari",
+      "attention": true,
+      "date": "2021-12-27T06:31:48.857Z",
+      "id": 1
+    },
+    {
+      "message": "This is god software",
+      "tech": "ali rajabi",
+      "attention": true,
+      "date": "2021-12-27T06:31:11.059Z",
+      "id": 2
+    },
+    {
+      "message": "this is bad ",
+      "tech": "shahin mohammadi",
+      "attention": false,
+      "date": "2021-12-27T06:36:43.988Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "ali",
+      "lastName": "rajabi",
+      "id": 1
+    },
+    {
+      "firstName": "mohammad",
+      "lastName": "safari",
+      "id": 2
+    },
+    {
+      "firstName": "shahin",
+      "lastName": "mohammadi",
+      "id": 3
+    }
+  ]
+}
